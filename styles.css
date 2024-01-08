@@ -58,7 +58,6 @@ body {
 }
 .inline {
     display: flex;
-    font-family: 'Montserrat', sans-serif;
 }
 .prices {
     display: flex;
