@@ -26,7 +26,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: [https://kelvin-palma.github.io/product-preview-card-component-main/]
 
 ## My process
 
