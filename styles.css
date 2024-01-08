@@ -58,6 +58,7 @@ body {
 }
 .inline {
     display: flex;
+    font-family: 'Fraunces', serif;
 }
 .prices {
     display: flex;
