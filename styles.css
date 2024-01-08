@@ -128,6 +128,6 @@ button:hover {
     }
     .image {
         border-radius: 0.80rem 0.80rem 0 0;
-        content: url("/images/image-product-mobile.jpg");
+        content: url("images/image-product-mobile.jpg");
     }
 }
