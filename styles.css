@@ -129,6 +129,10 @@ button:hover {
     .info {
         gap: 1;
     }
+    .no-inline {
+        display: block;
+        font-family: 'Montserrat', sans-serif;
+    }
     .image {
         border-radius: 0.80rem 0.80rem 0 0;
         content: url("images/image-product-mobile.jpg");
