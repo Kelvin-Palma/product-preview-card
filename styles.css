@@ -56,10 +56,6 @@ body {
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
 }
-.inline {
-    display: flex;
-    font-family: 'Fraunces', serif;
-}
 .prices {
     display: flex;
 }
@@ -102,6 +98,13 @@ button:hover {
 .attribution a { 
     text-decoration: none;
     color: hsl(228, 45%, 44%); 
+}
+
+@media screen and (min-width: 650px) {
+    .inline {
+        display: flex;
+        font-family: 'Fraunces', serif;
+    }
 }
 
 /* Mobile View */
